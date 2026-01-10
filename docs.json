@@ -1,5 +1,5 @@
 {
-  "name": "AmalanKu - Dokumentasi",
+  "name": "AmalanKu - Docs",
   "description": "Dokumentasi lengkap aplikasi AmalanKu untuk membantu umat Muslim istiqomah dalam amalan harian",
   "logo": "https://flagodna-developer.github.io/data/icon/256/amalanku.webp",
   "sidebar": [
@@ -49,7 +49,7 @@
         {
           "title": "Menambahkan Widget Shalat",
           "href": "/tutorial/tambah-widget-shalat",
-          "icon": "target"
+          "icon": "layout"
         },
         {
           "title": "Backup & Restore Data",
