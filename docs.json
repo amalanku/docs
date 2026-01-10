@@ -9,17 +9,17 @@
         {
           "title": "Pengenalan AmalanKu",
           "href": "/",
-          "icon": "book-open"
+          "icon": "rocket"
         },
         {
           "title": "Instalasi & Setup",
           "href": "/instalasi",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Langkah Pertama",
           "href": "/langkah-pertama",
-          "icon": "check-circle"
+          "icon": "rocket"
         }
       ]
     },
@@ -29,42 +29,42 @@
         {
           "title": "Tracking Amalan Harian",
           "href": "/tutorial/tracking-amalan",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Cara Mengubah Nama",
           "href": "/tutorial/ganti-nama",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Cara Mengubah Foto Profil",
           "href": "/tutorial/ganti-gambar",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Menyiapkan Kunci Aplikasi",
           "href": "/tutorial/setup-app-lock",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Menambahkan Widget Shalat",
           "href": "/tutorial/tambah-widget-shalat",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Backup & Restore Data",
           "href": "/tutorial/backup-restore",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Notifikasi Pengingat",
           "href": "/tutorial/notifikasi-pengingat",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Ekspor Laporan PDF",
           "href": "/tutorial/ekspor-pdf",
-          "icon": "check-circle"
+          "icon": "rocket"
         }
       ]
     },
@@ -74,22 +74,22 @@
         {
           "title": "Data Lokal & Privasi",
           "href": "/privasi/data-lokal",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Keamanan Data",
           "href": "/privasi/keamanan",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Mode Offline",
           "href": "/privasi/mode-offline",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Tanpa Akun & Registrasi",
           "href": "/privasi/tanpa-akun",
-          "icon": "check-circle"
+          "icon": "rocket"
         }
       ]
     },
@@ -99,22 +99,22 @@
         {
           "title": "Kustomisasi Profil",
           "href": "/pengaturan/profil",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Pengaturan Notifikasi",
           "href": "/pengaturan/notifikasi",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Level Daily Task",
           "href": "/pengaturan/level-task",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Tema & Tampilan",
           "href": "/pengaturan/tema",
-          "icon": "check-circle"
+          "icon": "rocket"
         }
       ]
     },
@@ -124,17 +124,17 @@
         {
           "title": "Pertanyaan Umum",
           "href": "/faq/umum",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Troubleshooting",
           "href": "/faq/troubleshooting",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Kontak & Dukungan",
           "href": "/faq/kontak",
-          "icon": "check-circle"
+          "icon": "rocket"
         }
       ]
     },
@@ -144,17 +144,17 @@
         {
           "title": "Visi & Misi AmalanKu",
           "href": "/tentang/visi-misi",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Tim Developer",
           "href": "/tentang/tim",
-          "icon": "check-circle"
+          "icon": "rocket"
         },
         {
           "title": "Kontribusi",
           "href": "/tentang/kontribusi",
-          "icon": "check-circle"
+          "icon": "rocket"
         }
       ]
     }
