@@ -1,0 +1,62 @@
+---
+title: Troubleshooting
+description: Solusi praktis untuk mengatasi masalah teknis seperti notifikasi yang tidak muncul atau widget yang macet.
+icon: wrench
+---
+
+# Troubleshooting
+
+Jika Anda mengalami kendala saat menggunakan **AmalanKu**, jangan khawatir. Sebagian besar masalah teknis berkaitan dengan pengaturan sistem Android pada perangkat Anda. Berikut adalah panduan solusi untuk masalah yang paling sering dilaporkan.
+
+## 1. Notifikasi Adzan Tidak Berbunyi
+
+Ini adalah masalah yang paling umum terjadi pada perangkat Android modern (terutama merk Xiaomi, Oppo, Vivo, dan Samsung) karena sistem penghemat baterai yang agresif.
+
+**Solusinya:**
+* **Matikan Optimasi Baterai:** Masuk ke *Pengaturan HP > Aplikasi > AmalanKu > Baterai* dan pilih **"Tanpa Pembatasan"** atau **"Don't Optimize"**.
+* **Aktifkan Auto-Start:** Pastikan AmalanKu diizinkan untuk berjalan otomatis saat HP dinyalakan.
+* **Kunci Aplikasi di Recent Apps:** Buka daftar aplikasi yang sedang berjalan, lalu tekan lama pada AmalanKu dan pilih ikon gembok agar aplikasi tidak ditutup oleh sistem secara paksa.
+
+## 2. Widget Tidak Terupdate (Macet)
+
+Jika widget waktu shalat atau task Anda tidak berganti angka secara otomatis:
+
+* **Penyebab:** Sistem Android menghentikan proses latar belakang aplikasi untuk menghemat daya.
+* **Solusi:** Pastikan izin **"Tampilkan di Layar Kunci"** dan **"Tampilkan Jendela Pop-up saat berjalan di latar belakang"** telah diaktifkan di pengaturan izin aplikasi.
+
+---
+
+## 3. Masalah Backup & Restore
+
+**Gagal Melakukan Restore:**
+* Pastikan file backup yang Anda gunakan berformat `.zip` asli dari aplikasi AmalanKu.
+* Jika Anda menggunakan password saat backup, pastikan password yang dimasukkan saat restore benar (perhatikan huruf besar dan kecil).
+* Berikan izin akses folder/storage agar aplikasi bisa membaca file dari memori internal.
+
+**File Backup Tidak Ditemukan:**
+* Cari file cadangan Anda di folder `Downloads` atau folder `AmalanKu` menggunakan aplikasi File Manager pihak ketiga.
+
+---
+
+## 4. Lokasi & Waktu Shalat Tidak Akurat
+
+Jika jadwal shalat terasa sangat melesat (selisih jam):
+
+* **Cek Zona Waktu:** Pastikan pengaturan jam di HP Anda diatur ke **"Otomatis"** (Network Provided Time).
+* **Izin Lokasi:** Pastikan AmalanKu memiliki izin akses lokasi "Saat aplikasi digunakan".
+* **Update Koordinat:** Masuk ke *Pengaturan > Notifikasi* dan klik "Perbarui Lokasi" untuk menyinkronkan ulang titik GPS Anda.
+
+---
+
+## Tips Tambahan
+
+> [!IMPORTANT]
+> **Update Aplikasi:** Selalu pastikan Anda menggunakan versi terbaru dari [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.amalanku) karena kami rutin merilis perbaikan bug (bug fixes).
+
+> [!WARNING]
+> **Jangan "Clear Data":** Melakukan *Clear Data* di pengaturan sistem Android akan menghapus seluruh database amalan Anda. Gunakan fitur ini hanya jika Anda sudah memiliki file backup atau ingin mengulang dari awal.
+
+---
+
+### Belum Selesai?
+Jika langkah-langkah di atas tidak membuahkan hasil, silakan hubungi tim teknis kami dengan menyertakan tipe HP dan versi Android Anda melalui halaman [Kontak & Dukungan](/faq/kontak).

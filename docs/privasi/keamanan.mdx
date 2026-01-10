@@ -1,0 +1,62 @@
+---
+title: Keamanan Data
+description: Penjelasan mendalam mengenai lapisan keamanan teknis yang melindungi data ibadah Anda di AmalanKu.
+icon: lock-keyhole
+---
+
+# Keamanan Data
+
+Selain fokus pada privasi, **AmalanKu** juga sangat memperhatikan aspek keamanan data. Kami memastikan bahwa data yang Anda simpan tidak hanya bersifat pribadi, tetapi juga aman dari kerusakan sistem maupun akses ilegal.
+
+## Lapisan Keamanan Kami
+
+Kami menerapkan beberapa lapisan perlindungan untuk menjaga integritas data Anda:
+
+### 1. Sandboxing Aplikasi
+AmalanKu berjalan di dalam sistem "Sandbox" Android. Ini berarti data yang dibuat oleh AmalanKu diisolasi secara ketat sehingga aplikasi lain tidak memiliki izin akses untuk membaca atau mengambil database amalan Anda tanpa izin eksplisit.
+
+### 2. Enkripsi Backup
+Saat Anda menggunakan fitur **Ekspor Data** atau **Backup**, kami menyediakan opsi untuk mengenkripsi file tersebut.
+* **Format ZIP Terproteksi:** Data dicadangkan dalam format ZIP yang dilindungi password.
+* **AES Encryption:** Menggunakan standar enkripsi yang kuat untuk memastikan file cadangan tidak bisa dibuka jika jatuh ke tangan yang salah.
+
+---
+
+## Integritas Data
+
+Kami memastikan data Anda tetap akurat dan tidak korup melalui:
+
+* **Atomic Transactions:** Setiap kali Anda menandai amalan selesai, aplikasi menggunakan sistem transaksi database yang memastikan data tersimpan dengan sempurna meskipun aplikasi tiba-tiba tertutup.
+* **Validasi Input:** Mencegah kesalahan input yang dapat merusak struktur laporan atau statistik ibadah Anda.
+
+---
+
+## Tips Menjaga Keamanan Mandiri
+
+Keamanan adalah tanggung jawab bersama. Berikut adalah langkah yang bisa Anda lakukan:
+
+> [!IMPORTANT]
+> **Gunakan Password Backup yang Kuat:** Jika Anda mengekspor data dalam bentuk ZIP berpassword, pastikan password tersebut unik dan mudah Anda ingat namun sulit ditebak orang lain.
+
+> [!WARNING]
+> **Hati-hati dengan Root/Jailbreak:** Melakukan *rooting* pada perangkat Android Anda dapat merusak sistem sandboxing dan membuat data di semua aplikasi (termasuk AmalanKu) menjadi lebih rentan terhadap malware.
+
+---
+
+## Kebijakan Transparansi
+
+AmalanKu berkomitmen untuk:
+1. **Tidak Menjual Data:** Kami tidak akan pernah menjual atau membagikan data Anda kepada pihak iklan atau pihak ketiga mana pun.
+2. **Tanpa Akses Remote:** Kami tidak memiliki "pintu belakang" (backdoor) untuk mengakses data di ponsel Anda dari jarak jauh.
+3. **Open Communication:** Jika ada pembaruan terkait sistem keamanan, kami akan menginformasikannya secara transparan melalui *Changelog*.
+
+---
+
+## Ringkasan Keamanan
+
+| Fitur Keamanan | Status | Lokasi |
+| :--- | :--- | :--- |
+| Enkripsi Database | Terintegrasi | Internal Storage |
+| Password Backup | Opsional | User Defined |
+| Biometric Lock | Tersedia | App Entry |
+| Cloud Tracking | Non-Aktif | N/A |
