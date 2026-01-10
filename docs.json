@@ -14,12 +14,12 @@
         {
           "title": "Instalasi & Setup",
           "href": "/instalasi",
-          "icon": "download"
+          "icon": "check-circle"
         },
         {
           "title": "Langkah Pertama",
           "href": "/langkah-pertama",
-          "icon": "download"
+          "icon": "check-circle"
         }
       ]
     },
@@ -34,37 +34,37 @@
         {
           "title": "Cara Mengubah Nama",
           "href": "/tutorial/ganti-nama",
-          "icon": "user-edit"
+          "icon": "check-circle"
         },
         {
           "title": "Cara Mengubah Foto Profil",
           "href": "/tutorial/ganti-gambar",
-          "icon": "image"
+          "icon": "check-circle"
         },
         {
           "title": "Menyiapkan Kunci Aplikasi",
           "href": "/tutorial/setup-app-lock",
-          "icon": "lock"
+          "icon": "check-circle"
         },
         {
           "title": "Menambahkan Widget Shalat",
           "href": "/tutorial/tambah-widget-shalat",
-          "icon": "layout"
+          "icon": "check-circle"
         },
         {
           "title": "Backup & Restore Data",
           "href": "/tutorial/backup-restore",
-          "icon": "database"
+          "icon": "check-circle"
         },
         {
           "title": "Notifikasi Pengingat",
           "href": "/tutorial/notifikasi-pengingat",
-          "icon": "bell"
+          "icon": "check-circle"
         },
         {
           "title": "Ekspor Laporan PDF",
           "href": "/tutorial/ekspor-pdf",
-          "icon": "file-text"
+          "icon": "check-circle"
         }
       ]
     },
@@ -74,22 +74,22 @@
         {
           "title": "Data Lokal & Privasi",
           "href": "/privasi/data-lokal",
-          "icon": "shield-check"
+          "icon": "check-circle"
         },
         {
           "title": "Keamanan Data",
           "href": "/privasi/keamanan",
-          "icon": "lock-keyhole"
+          "icon": "check-circle"
         },
         {
           "title": "Mode Offline",
           "href": "/privasi/mode-offline",
-          "icon": "wifi-off"
+          "icon": "check-circle"
         },
         {
           "title": "Tanpa Akun & Registrasi",
           "href": "/privasi/tanpa-akun",
-          "icon": "user-x"
+          "icon": "check-circle"
         }
       ]
     },
@@ -99,22 +99,22 @@
         {
           "title": "Kustomisasi Profil",
           "href": "/pengaturan/profil",
-          "icon": "user"
+          "icon": "check-circle"
         },
         {
           "title": "Pengaturan Notifikasi",
           "href": "/pengaturan/notifikasi",
-          "icon": "settings"
+          "icon": "check-circle"
         },
         {
           "title": "Level Daily Task",
           "href": "/pengaturan/level-task",
-          "icon": "target"
+          "icon": "check-circle"
         },
         {
           "title": "Tema & Tampilan",
           "href": "/pengaturan/tema",
-          "icon": "palette"
+          "icon": "check-circle"
         }
       ]
     },
@@ -124,17 +124,17 @@
         {
           "title": "Pertanyaan Umum",
           "href": "/faq/umum",
-          "icon": "help-circle"
+          "icon": "check-circle"
         },
         {
           "title": "Troubleshooting",
           "href": "/faq/troubleshooting",
-          "icon": "wrench"
+          "icon": "check-circle"
         },
         {
           "title": "Kontak & Dukungan",
           "href": "/faq/kontak",
-          "icon": "mail"
+          "icon": "check-circle"
         }
       ]
     },
@@ -144,17 +144,17 @@
         {
           "title": "Visi & Misi AmalanKu",
           "href": "/tentang/visi-misi",
-          "icon": "compass"
+          "icon": "check-circle"
         },
         {
           "title": "Tim Developer",
           "href": "/tentang/tim",
-          "icon": "users"
+          "icon": "check-circle"
         },
         {
           "title": "Kontribusi",
           "href": "/tentang/kontribusi",
-          "icon": "heart-handshake"
+          "icon": "check-circle"
         }
       ]
     }
