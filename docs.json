@@ -1,163 +1,45 @@
 {
-  "name": "AmalanKu - Docs",
+  "name": "AmalanKu",
   "description": "Dokumentasi lengkap aplikasi AmalanKu untuk membantu umat Muslim istiqomah dalam amalan harian",
   "logo": "https://flagodna-developer.github.io/data/icon/256/amalanku.webp",
   "theme": "#2ECC71",
-  "sidebar": [
-    {
-      "group": "Panduan Memulai",
-      "pages": [
-        {
-          "title": "Pengenalan AmalanKu",
-          "href": "/",
-          "icon": "rocket"
-        },
-        {
-          "title": "Instalasi & Setup",
-          "href": "/instalasi",
-          "icon": "rocket"
-        },
-        {
-          "title": "Langkah Pertama",
-          "href": "/langkah-pertama",
-          "icon": "rocket"
-        }
-      ]
-    },
-    {
-      "group": "Tutorial Fitur Utama",
-      "pages": [
-        {
-          "title": "Tracking Amalan Harian",
-          "href": "/tutorial/tracking-amalan",
-          "icon": "rocket"
-        },
-        {
-          "title": "Cara Mengubah Nama",
-          "href": "/tutorial/ganti-nama",
-          "icon": "rocket"
-        },
-        {
-          "title": "Cara Mengubah Foto Profil",
-          "href": "/tutorial/ganti-gambar",
-          "icon": "rocket"
-        },
-        {
-          "title": "Menyiapkan Kunci Aplikasi",
-          "href": "/tutorial/setup-app-lock",
-          "icon": "rocket"
-        },
-        {
-          "title": "Menambahkan Widget Shalat",
-          "href": "/tutorial/tambah-widget-shalat",
-          "icon": "rocket"
-        },
-        {
-          "title": "Backup & Restore Data",
-          "href": "/tutorial/backup-restore",
-          "icon": "rocket"
-        },
-        {
-          "title": "Notifikasi Pengingat",
-          "href": "/tutorial/notifikasi-pengingat",
-          "icon": "rocket"
-        },
-        {
-          "title": "Ekspor Laporan PDF",
-          "href": "/tutorial/ekspor-pdf",
-          "icon": "rocket"
-        }
-      ]
-    },
-    {
-      "group": "Privasi & Keamanan",
-      "pages": [
-        {
-          "title": "Data Lokal & Privasi",
-          "href": "/privasi/data-lokal",
-          "icon": "rocket"
-        },
-        {
-          "title": "Keamanan Data",
-          "href": "/privasi/keamanan",
-          "icon": "rocket"
-        },
-        {
-          "title": "Mode Offline",
-          "href": "/privasi/mode-offline",
-          "icon": "rocket"
-        },
-        {
-          "title": "Tanpa Akun & Registrasi",
-          "href": "/privasi/tanpa-akun",
-          "icon": "rocket"
-        }
-      ]
-    },
-    {
-      "group": "Pengaturan",
-      "pages": [
-        {
-          "title": "Kustomisasi Profil",
-          "href": "/pengaturan/profil",
-          "icon": "rocket"
-        },
-        {
-          "title": "Pengaturan Notifikasi",
-          "href": "/pengaturan/notifikasi",
-          "icon": "rocket"
-        },
-        {
-          "title": "Level Daily Task",
-          "href": "/pengaturan/level-task",
-          "icon": "rocket"
-        },
-        {
-          "title": "Tema & Tampilan",
-          "href": "/pengaturan/tema",
-          "icon": "rocket"
-        }
-      ]
-    },
-    {
-      "group": "FAQ & Bantuan",
-      "pages": [
-        {
-          "title": "Pertanyaan Umum",
-          "href": "/faq/umum",
-          "icon": "rocket"
-        },
-        {
-          "title": "Troubleshooting",
-          "href": "/faq/troubleshooting",
-          "icon": "rocket"
-        },
-        {
-          "title": "Kontak & Dukungan",
-          "href": "/faq/kontak",
-          "icon": "rocket"
-        }
-      ]
-    },
-    {
-      "group": "Tentang",
-      "pages": [
-        {
-          "title": "Visi & Misi AmalanKu",
-          "href": "/tentang/visi-misi",
-          "icon": "rocket"
-        },
-        {
-          "title": "Tim Developer",
-          "href": "/tentang/tim",
-          "icon": "rocket"
-        },
-        {
-          "title": "Kontribusi",
-          "href": "/tentang/kontribusi",
-          "icon": "rocket"
-        }
-      ]
-    }
-  ]
+  "sidebar": {
+    "Panduan Memulai": [
+      ["Pengenalan AmalanKu", "/"],
+      ["Instalasi & Setup", "/instalasi"],
+      ["Langkah Pertama", "/langkah-pertama"]
+    ],
+    "Tutorial Fitur Utama": [
+      ["Tracking Amalan Harian", "/tutorial/tracking-amalan"],
+      ["Cara Mengubah Nama", "/tutorial/ganti-nama"],
+      ["Cara Mengubah Foto Profil", "/tutorial/ganti-gambar"],
+      ["Menyiapkan Kunci Aplikasi", "/tutorial/setup-app-lock"],
+      ["Menambahkan Widget Shalat", "/tutorial/tambah-widget-shalat"],
+      ["Backup & Restore Data", "/tutorial/backup-restore"],
+      ["Notifikasi Pengingat", "/tutorial/notifikasi-pengingat"],
+      ["Ekspor Laporan PDF", "/tutorial/ekspor-pdf"]
+    ],
+    "Privasi & Keamanan": [
+      ["Data Lokal & Privasi", "/privasi/data-lokal"],
+      ["Keamanan Data", "/privasi/keamanan"],
+      ["Mode Offline", "/privasi/mode-offline"],
+      ["Tanpa Akun & Registrasi", "/privasi/tanpa-akun"]
+    ],
+    "Pengaturan": [
+      ["Kustomisasi Profil", "/pengaturan/profil"],
+      ["Pengaturan Notifikasi", "/pengaturan/notifikasi"],
+      ["Level Daily Task", "/pengaturan/level-task"],
+      ["Tema & Tampilan", "/pengaturan/tema"]
+    ],
+    "FAQ & Bantuan": [
+      ["Pertanyaan Umum", "/faq/umum"],
+      ["Troubleshooting", "/faq/troubleshooting"],
+      ["Kontak & Dukungan", "/faq/kontak"]
+    ],
+    "Tentang": [
+      ["Visi & Misi AmalanKu", "/tentang/visi-misi"],
+      ["Tim Developer", "/tentang/tim"],
+      ["Kontribusi", "/tentang/kontribusi"]
+    ]
+  }
 }
