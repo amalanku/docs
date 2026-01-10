@@ -8,38 +8,6 @@
       ["Pengenalan AmalanKu", "/"],
       ["Instalasi & Setup", "/instalasi"],
       ["Langkah Pertama", "/langkah-pertama"]
-    ],
-    "Tutorial Fitur Utama": [
-      ["Tracking Amalan Harian", "/tutorial/tracking-amalan"],
-      ["Cara Mengubah Nama", "/tutorial/ganti-nama"],
-      ["Cara Mengubah Foto Profil", "/tutorial/ganti-gambar"],
-      ["Menyiapkan Kunci Aplikasi", "/tutorial/setup-app-lock"],
-      ["Menambahkan Widget Shalat", "/tutorial/tambah-widget-shalat"],
-      ["Backup & Restore Data", "/tutorial/backup-restore"],
-      ["Notifikasi Pengingat", "/tutorial/notifikasi-pengingat"],
-      ["Ekspor Laporan PDF", "/tutorial/ekspor-pdf"]
-    ],
-    "Privasi & Keamanan": [
-      ["Data Lokal & Privasi", "/privasi/data-lokal"],
-      ["Keamanan Data", "/privasi/keamanan"],
-      ["Mode Offline", "/privasi/mode-offline"],
-      ["Tanpa Akun & Registrasi", "/privasi/tanpa-akun"]
-    ],
-    "Pengaturan": [
-      ["Kustomisasi Profil", "/pengaturan/profil"],
-      ["Pengaturan Notifikasi", "/pengaturan/notifikasi"],
-      ["Level Daily Task", "/pengaturan/level-task"],
-      ["Tema & Tampilan", "/pengaturan/tema"]
-    ],
-    "FAQ & Bantuan": [
-      ["Pertanyaan Umum", "/faq/umum"],
-      ["Troubleshooting", "/faq/troubleshooting"],
-      ["Kontak & Dukungan", "/faq/kontak"]
-    ],
-    "Tentang": [
-      ["Visi & Misi AmalanKu", "/tentang/visi-misi"],
-      ["Tim Developer", "/tentang/tim"],
-      ["Kontribusi", "/tentang/kontribusi"]
     ]
   }
 }
