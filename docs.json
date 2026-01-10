@@ -47,6 +47,11 @@
           "icon": "lock"
         },
         {
+          "title": "Menambahkan Widget Shalat",
+          "href": "/tutorial/tambah-widget-shalat",
+          "icon": "target"
+        },
+        {
           "title": "Backup & Restore Data",
           "href": "/tutorial/backup-restore",
           "icon": "database"
@@ -110,31 +115,6 @@
           "title": "Tema & Tampilan",
           "href": "/pengaturan/tema",
           "icon": "palette"
-        }
-      ]
-    },
-    {
-      "group": "Tips & Trik",
-      "pages": [
-        {
-          "title": "Cara Istiqomah dengan AmalanKu",
-          "href": "/tips/cara-istiqomah",
-          "icon": "lightbulb"
-        },
-        {
-          "title": "Memaksimalkan Fitur Tracking",
-          "href": "/tips/maksimalkan-tracking",
-          "icon": "trending-up"
-        },
-        {
-          "title": "Membaca Laporan Progress",
-          "href": "/tips/membaca-laporan",
-          "icon": "chart-line"
-        },
-        {
-          "title": "Menggunakan Widget Efektif",
-          "href": "/tips/widget-efektif",
-          "icon": "zap"
         }
       ]
     },
