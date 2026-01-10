@@ -3,43 +3,79 @@
   "description": "Dokumentasi lengkap aplikasi AmalanKu untuk membantu umat Muslim istiqomah dalam amalan harian",
   "logo": "https://flagodna-developer.github.io/data/icon/256/amalanku.webp",
   "theme": "#2ECC71",
-  "sidebar": {
-    "Panduan Memulai": [
-      ["Pengenalan AmalanKu", "index"],
-      ["Instalasi & Setup", "instalasi"],
-      ["Langkah Pertama", "langkah-pertama"]
-    ],
-    "Tutorial Fitur Utama": [
-      ["Tracking Amalan Harian", "tutorial/tracking-amalan"],
-      ["Cara Mengubah Nama", "tutorial/ganti-nama"],
-      ["Cara Mengubah Foto Profil", "tutorial/ganti-gambar"],
-      ["Menyiapkan Kunci Aplikasi", "tutorial/setup-app-lock"],
-      ["Menambahkan Widget Shalat", "tutorial/tambah-widget-shalat"],
-      ["Backup & Restore Data", "tutorial/backup-restore"],
-      ["Notifikasi Pengingat", "tutorial/notifikasi-pengingat"],
-      ["Ekspor Laporan PDF", "tutorial/ekspor-pdf"]
-    ],
-    "Privasi & Keamanan": [
-      ["Data Lokal & Privasi", "privasi/data-lokal"],
-      ["Keamanan Data", "privasi/keamanan"],
-      ["Mode Offline", "privasi/mode-offline"],
-      ["Tanpa Akun & Registrasi", "privasi/tanpa-akun"]
-    ],
-    "Pengaturan": [
-      ["Kustomisasi Profil", "pengaturan/profil"],
-      ["Pengaturan Notifikasi", "pengaturan/notifikasi"],
-      ["Level Daily Task", "pengaturan/level-task"],
-      ["Tema & Tampilan", "pengaturan/tema"]
-    ],
-    "FAQ & Bantuan": [
-      ["Pertanyaan Umum", "faq/umum"],
-      ["Troubleshooting", "faq/troubleshooting"],
-      ["Kontak & Dukungan", "faq/kontak"]
-    ],
-    "Tentang": [
-      ["Visi & Misi AmalanKu", "tentang/visi-misi"],
-      ["Tim Developer", "tentang/tim"],
-      ["Kontribusi", "tentang/kontribusi"]
-    ]
-  }
+  "sidebar": [
+    {
+      "group": "Panduan Memulai",
+      "pages": [
+        { "title": "Pengenalan AmalanKu", "href": "/" },
+        { "title": "Instalasi & Setup", "href": "/instalasi" },
+        { "title": "Langkah Pertama", "href": "/langkah-pertama" }
+      ]
+    },
+    {
+      "group": "Tutorial Fitur Utama",
+      "pages": [
+        {
+          "title": "Tracking Amalan Harian",
+          "href": "/tutorial/tracking-amalan"
+        },
+        { "title": "Cara Mengubah Nama", "href": "/tutorial/ganti-nama" },
+        {
+          "title": "Cara Mengubah Foto Profil",
+          "href": "/tutorial/ganti-gambar"
+        },
+        {
+          "title": "Menyiapkan Kunci Aplikasi",
+          "href": "/tutorial/setup-app-lock"
+        },
+        {
+          "title": "Menambahkan Widget Shalat",
+          "href": "/tutorial/tambah-widget-shalat"
+        },
+        {
+          "title": "Backup & Restore Data",
+          "href": "/tutorial/backup-restore"
+        },
+        {
+          "title": "Notifikasi Pengingat",
+          "href": "/tutorial/notifikasi-pengingat"
+        },
+        { "title": "Ekspor Laporan PDF", "href": "/tutorial/ekspor-pdf" }
+      ]
+    },
+    {
+      "group": "Privasi & Keamanan",
+      "pages": [
+        { "title": "Data Lokal & Privasi", "href": "/privasi/data-lokal" },
+        { "title": "Keamanan Data", "href": "/privasi/keamanan" },
+        { "title": "Mode Offline", "href": "/privasi/mode-offline" },
+        { "title": "Tanpa Akun & Registrasi", "href": "/privasi/tanpa-akun" }
+      ]
+    },
+    {
+      "group": "Pengaturan",
+      "pages": [
+        { "title": "Kustomisasi Profil", "href": "/pengaturan/profil" },
+        { "title": "Pengaturan Notifikasi", "href": "/pengaturan/notifikasi" },
+        { "title": "Level Daily Task", "href": "/pengaturan/level-task" },
+        { "title": "Tema & Tampilan", "href": "/pengaturan/tema" }
+      ]
+    },
+    {
+      "group": "FAQ & Bantuan",
+      "pages": [
+        { "title": "Pertanyaan Umum", "href": "/faq/umum" },
+        { "title": "Troubleshooting", "href": "/faq/troubleshooting" },
+        { "title": "Kontak & Dukungan", "href": "/faq/kontak" }
+      ]
+    },
+    {
+      "group": "Tentang",
+      "pages": [
+        { "title": "Visi & Misi AmalanKu", "href": "/tentang/visi-misi" },
+        { "title": "Tim Developer", "href": "/tentang/tim" },
+        { "title": "Kontribusi", "href": "/tentang/kontribusi" }
+      ]
+    }
+  ]
 }
