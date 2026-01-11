@@ -2,7 +2,8 @@
   "name": "AmalanKu",
   "description": "Dokumentasi lengkap aplikasi AmalanKu untuk membantu umat Muslim istiqomah dalam amalan harian",
   "logo": "https://flagodna-developer.github.io/data/icon/256/amalanku.webp",
-  "theme": "#2ECC71",
+  "theme": "#27AE60",
+  "darkTheme": "#2ECC71",
   "sidebar": [
     {
       "group": "Panduan Memulai",
